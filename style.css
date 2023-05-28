@@ -6,5 +6,25 @@
 }
 
 body {
-   background-color: #1e1e1e; 
+    color: #777;
+}
+
+.container {
+    background-color: #eee;
+}
+
+.btn {
+    border: none;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: green;
+}
+
+.container-notification {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    margin: 3rem;
+    font-size: 1.2rem;
 }
